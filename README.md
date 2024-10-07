@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.P11 - MÁY HỌC</b></h1>
 
 
 
@@ -20,9 +20,9 @@
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Mã môn học**: CS114
-* **Lớp học**: CS114.L21
-* **Ngày bắt đầu**: 01/03/2021
-* **Năm học**: 2020-2021
+* **Lớp học**: CS114.P11
+* **Ngày bắt đầu**: 02/09/2024
+* **Năm học**: 2024-2025
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.LẬP TRÌNH PYTHON
@@ -44,7 +44,7 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      |      | |      |  |
+| 1      | 21521417    |  Trương Vũ Minh Tân | [spacecrab](https://github.com/spacecrab)    | 21521417@gm.uit.edu.vn  |
 | 2      |    |     || |
 | 3      |   |     |           |  |
 
