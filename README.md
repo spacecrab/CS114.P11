@@ -44,10 +44,10 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 19520227      | Nguyễn Ngọc Lan Phương |[lphuong304](https://github.com/lphuong304)          |19520227@gm.uit.edu.vn   |
-| 2      | 19521623      | Nguyễn Quốc Huy        |[nguyen-huy-1623](https://github.com/nguyen-huy-1623)|19521263@gm.uit.edu.vn   |
-| 3      | 19522450      | Hoàng Anh Tú           |[19522450](https://github.com/19522450)              |19522450@gm.uit.edu.vn   |
+| 1      |      | |      |  |
+| 2      |    |     || |
+| 3      |   |     |           |  |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: ỨNG DỤNG DEEP LEARNING VÀO MÔ HÌNH SIÊU THỊ KHÔNG THU NGÂN
+1. Tên đồ án: 
